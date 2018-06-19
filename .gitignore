@@ -1,7 +1,0 @@
-# website
-_site
-.sass-cache
-.jekyll-metadata
-
-# git
-.gitignore
